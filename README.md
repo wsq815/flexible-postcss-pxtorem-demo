@@ -2,9 +2,13 @@
 
 ## 第一次提交2018/10/9
 
-增加淘宝移动端适配方案插件amfe-flexible 和 px 转 rem postcss-pxtorem 插件 
-[https://github.com/amfe/lib-flexible](https://github.com/amfe/lib-flexible)
-[https://www.npmjs.com/package/postcss-pxtorem](https://www.npmjs.com/package/postcss-pxtorem)
+增加淘宝移动端适配方案插件amfe-flexible 和 px 转 rem postcss-pxtorem 插件 <br />
+[https://github.com/amfe/lib-flexible](https://github.com/amfe/lib-flexible)<br />
+[https://www.npmjs.com/package/postcss-pxtorem](https://www.npmjs.com/package/postcss-pxtorem)<br />
+main.js 文件<br />
+[https://github.com/wsq815/flexible-postcss-pxtorem-demo/blob/master/src/assets/1.png](https://github.com/wsq815/flexible-postcss-pxtorem-demo/blob/master/src/assets/1.png) <br />
+.postcssrc.js 文件 <br />
+[https://github.com/wsq815/flexible-postcss-pxtorem-demo/blob/master/src/assets/2.png](https://github.com/wsq815/flexible-postcss-pxtorem-demo/blob/master/src/assets/2.png)
 
 > A Vue.js project
 
